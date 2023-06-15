@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
 *main - main entry point
-*return: always 0 (success)
+*puzzle: followed by a new line
+*Return: always 0.
 */
 int main(void)
 {
