@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_lasy_digit - computes the absolute value of an integer
+ * print_last_digit - computes the absolute value of an integer
  *@c: The number to be computed
  * Return: value of digit number
  */
